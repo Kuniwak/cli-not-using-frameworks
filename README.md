@@ -12,6 +12,8 @@
 | [`recipe5`](./recipe5) | サブコマンドの定義、テスト    |
 | [`recipe6`](./recipe6) | Shell補完、テスト      |
 
+思想を説明した [スライド](https://speakerdeck.com/orgachem/building-cli-tools-without-frameworks) も用意しています。
+
 
 License
 -------
